@@ -20,7 +20,7 @@
     "typescript": "^3.6.3"
   },
   "engines": {
-    "node": "10.x.x",
+    "node": ">=10",
     "yarn": "1.x"
   },
   "dependencies": {
